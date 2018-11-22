@@ -1,3 +1,3 @@
 def hello_func():
-    pass
+    print("hello world")
 hello_func()
