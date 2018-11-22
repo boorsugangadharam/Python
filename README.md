@@ -4,7 +4,7 @@ First select the source file of the current project
 
 #before that install git
 $ sudo apt-get install git
-
+<br>
 #config git
 $ git config --global user.email "your@example.com"
 $ git config --global user.name "your name"
